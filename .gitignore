@@ -11,3 +11,11 @@ dist-ssr
 .vinxi
 __unconfig*
 todos.json
+
+*.env.local
+.env.development
+.env.staging
+.env.production
+.env.test
+
+src/generated/prisma
