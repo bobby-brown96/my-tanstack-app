@@ -62,12 +62,12 @@ export default function Header() {
               >
                 Address Form
               </a>
-              <a
+              {/* <a
                 href="/demo/sentry/testing"
                 className="block rounded-lg px-3 py-2 text-sm text-(--sea-ink-soft) no-underline transition hover:bg-(--link-bg-hover) hover:text-(--sea-ink)"
               >
                 Sentry
-              </a>
+              </a> */}
               <a
                 href="/demo/tanstack-query"
                 className="block rounded-lg px-3 py-2 text-sm text-(--sea-ink-soft) no-underline transition hover:bg-(--link-bg-hover) hover:text-(--sea-ink)"
