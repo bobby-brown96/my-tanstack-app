@@ -44,12 +44,12 @@ export default function Header() {
               Demos
             </summary>
             <div className="mt-2 min-w-56 rounded-xl border border-(--line) bg-(--header-bg) p-2 shadow-lg sm:absolute sm:right-0">
-              <a
+              {/* <a
                 href="/demo/neon"
                 className="block rounded-lg px-3 py-2 text-sm text-(--sea-ink-soft) no-underline transition hover:bg-(--link-bg-hover) hover:text-(--sea-ink)"
               >
                 Neon
-              </a>
+              </a> */}
               <a
                 href="/demo/form/simple"
                 className="block rounded-lg px-3 py-2 text-sm text-(--sea-ink-soft) no-underline transition hover:bg-(--link-bg-hover) hover:text-(--sea-ink)"
